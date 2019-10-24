@@ -14,5 +14,10 @@
           "email": "dominik@required.ch",
           "role": "Developer"
       }
-  ]
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1-dev"
+    }
+  }
 }
