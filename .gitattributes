@@ -1,0 +1,10 @@
+/dev-lib
+/tests
+/wp-assets
+.gitattributes
+.gitignore
+.gitmodules
+.jshintignore
+.travis.yml
+package.json
+phpcs.rulset.xml
